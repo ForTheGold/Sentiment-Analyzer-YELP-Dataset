@@ -29,6 +29,6 @@ Next we create a list of all the words present in the document and order it in t
 
 We then use a Naive Bayes Classifier and train against 70% of the reviews and use 30% of the reviews for testing and check the accuracy.
 
-## Outcome
+### Outcome
 
 We typically get around 60~65% accuracy with this model
