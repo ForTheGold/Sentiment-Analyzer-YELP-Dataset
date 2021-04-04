@@ -38,5 +38,5 @@ We typically get around 60~65% accuracy with this model as you can see in the im
 ## Technologies
 
 * Python
-* NLTK
+* Natural Language Toolkit (NLTK)
 * Machine Learning - Naive Bayes Model
